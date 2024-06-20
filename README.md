@@ -1,4 +1,4 @@
-# Stock-Price-Forecasting-Using-Information-from-Yahoo-Finance-and-Google
+# Stock-Price-Forecasting
 Predicting Stock Price on the basis of a combination of fundamenta data (google trends data and sentiment data) and technical data(stock price) collected for TWTR (Twitter Inc)
 
 TL;DR
